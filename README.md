@@ -18,7 +18,7 @@ _🎯 Follow me and star this repo for more telegram bots._
 ## 📌 Deployment
 - Deploy to **Heroku**
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/VoiceChatStreamer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hani2ali/VoiceChatStreamer)
 
 - Deploy to **Railway**
 
